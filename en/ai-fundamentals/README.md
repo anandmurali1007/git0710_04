@@ -1,5 +1,5 @@
 ---
-guid: e28cdffc-9f20-4c8e-bf70-2529352fac11
+guid: fc42210f-89b7-4a6a-872e-bd08af61cf79
 title: AI fundamentals
 seo:
   title: AI fundamentals
